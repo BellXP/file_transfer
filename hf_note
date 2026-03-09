@@ -1,0 +1,2 @@
+
+hf download --repo-type dataset --resume-download nvidia/Nemotron-Post-Training-Dataset-v2 --local-dir ./nemotron_v2
